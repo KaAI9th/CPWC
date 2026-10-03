@@ -1,0 +1,10 @@
+================================================================================
+Sequence Record Time: 2025-09-25 23:45:50
+--------------------------------------------------------------------------------
+[DETECT]: [Vision] T:C, H:9.5cm, Dt:11.7m, Dp:3.60m
+[PLAN]: [Control] tS:34.3, pR:0.13, Comfort:Very Comfortable
+[RESULT]: cS:39.7 | aR:0.39 (GT_H:11.8cm, GT_Dp:3.60m) | Comfort: Comfortable
+[EVAL_ACCURACY]: [Control] Correction Applied: pR_CAL 0.0719→0.0817 | PWM_CAL 1.00→1.03
+[COLLISION]: Collision Speed(cS): 39.7km/h (Minimum Approach Distance: 0.71m)
+================================================================================
+
